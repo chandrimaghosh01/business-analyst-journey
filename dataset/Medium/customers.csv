@@ -1,0 +1,61 @@
+customer_id,customer_name,customer_type,city,state,zone,sales_rep,payment_terms,credit_days,credit_limit,onboarded_on
+C001,Laxmi Distributors,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,0,100000.0,2024-04-25
+C002,City Distributors,Retailer,Tezpur,Assam,North-East,Bikash Roy,Credit,15,50000.0,2018-01-13
+C003,Brahmaputra Wholesale,Distributor,Tezpur,Assam,North-East,Bikash Roy,Credit,45,500000.0,2018-07-29
+C004,Royal Trading Co.,Retailer,Agartala,Tripura,North-East,Bikash Roy,Credit,15,100000.0,2018-01-25
+C005,Jai Hind Umbrella House,Retailer,Cuttack,Odisha,Other East,Rakesh Singh,Cash,0,150000.0,2018-12-15
+C006,Modern Stores,Wholesaler,Howrah,West Bengal,South Bengal,Amit Sarkar,Credit,45,200000.0,2018-02-10
+C007,Biswakarma Bazaar,Wholesaler,Malda,West Bengal,North Bengal,Rina Das,Credit,45,600000.0,2017-04-10
+C008,Popular & Sons,Retailer,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,30,50000.0,2022-05-19
+C009,Brahmaputra General Store,Retailer,Guwahati,Assam,North-East,Bikash Roy,Cash,0,150000.0,2018-09-28
+C010,Ganga Bastralaya,Wholesaler,Jorhat,Assam,North-East,Bikash Roy,Credit,30,600000.0,2023-06-21
+C011,Sri Durga Umbrella House,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,0,100000.0,2022-11-10
+C012,Sonali Marketing,Wholesaler,Ranchi,Jharkhand,Other East,Rakesh Singh,Credit,30,200000.0,2017-05-29
+C013,Hanuman Stores,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,45,600000.0,2017-02-15
+C014,New Traders,Distributor,Imphal,Manipur,North-East,Bikash Roy,Credit,45,1000000.0,2022-10-01
+C015,Modern Traders,Retailer,Asansol,West Bengal,South Bengal,Amit Sarkar,Cash,0,150000.0,2022-02-27
+C016,Krishna Emporium,Retailer,Guwahati,Assam,North-East,Bikash Roy,Cash,0,50000.0,2023-06-24
+C017,New Traders,Distributor,Tezpur,Assam,North-East,Bikash Roy,Credit,60,1000000.0,2017-09-25
+C018,New Traders,Retailer,Itanagar,Arunachal Pradesh,North-East,Bikash Roy,Credit,15,150000.0,2025-08-10
+C019,Ganga Wholesale,Retailer,Howrah,West Bengal,South Bengal,Amit Sarkar,Cash,0,50000.0,2024-07-25
+C020,Sri Durga Trading Co.,Retailer,Malda,West Bengal,North Bengal,Rina Das,Credit,15,100000.0,2024-06-29
+C021,City Traders,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,30,200000.0,2020-07-22
+C022,Sonali Stores,Retailer,Jamshedpur,Jharkhand,Other East,Rakesh Singh,Credit,30,150000.0,2020-03-15
+C023,Krishna Emporium,Retailer,Shillong,Meghalaya,North-East,Bikash Roy,Credit,30,50000.0,2019-01-13
+C024,Rainbow Enterprises,Wholesaler,Dibrugarh,Assam,North-East,Bikash Roy,Credit,45,200000.0,2017-02-13
+C025,Modern Stores,Retailer,Silchar,Assam,North-East,Bikash Roy,Credit,30,150000.0,2018-09-17
+C026,City Umbrella House,Retailer,Howrah,West Bengal,South Bengal,Amit Sarkar,Cash,0,150000.0,2025-08-31
+C027,Kalyani General Store,Retailer,Asansol,West Bengal,South Bengal,Amit Sarkar,Cash,0,100000.0,2020-03-24
+C028,Lokenath General Store,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,0,100000.0,2018-05-19
+C029,City Stores,Retailer,Durgapur,West Bengal,South Bengal,Amit Sarkar,Cash,0,50000.0,2019-08-18
+C030,Star Enterprises,Wholesaler,Shillong,Meghalaya,North-East,Bikash Roy,Credit,45,400000.0,2023-08-23
+C031,Purbanchal Umbrella House,Retailer,Imphal,Manipur,North-East,Bikash Roy,Credit,15,100000.0,2017-03-02
+C032,Modern Bazaar,Retailer,Jamshedpur,Jharkhand,Other East,Rakesh Singh,Cash,0,100000.0,2020-04-11
+C033,Krishna Distributors,Retailer,Jalpaiguri,West Bengal,North Bengal,Rina Das,Credit,30,150000.0,2023-02-25
+C034,Sai Distributors,Wholesaler,Imphal,Manipur,North-East,Bikash Roy,Credit,30,200000.0,2018-05-13
+C035,Ganga Traders,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,15,100000.0,2023-07-25
+C036,Hanuman & Sons,Wholesaler,Asansol,West Bengal,South Bengal,Amit Sarkar,Credit,45,200000.0,2025-07-02
+C037,Hanuman Marketing,Retailer,Dimapur,Nagaland,North-East,Bikash Roy,Credit,30,50000.0,2021-11-14
+C038,Kalyani Distributors,Wholesaler,Agartala,Tripura,North-East,Bikash Roy,Credit,30,200000.0,2024-08-22
+C039,Modern Stores,Distributor,Jalpaiguri,West Bengal,North Bengal,Rina Das,Credit,60,1000000.0,2025-07-17
+C040,Krishna Distributors,Retailer,Patna,Bihar,Other East,Rakesh Singh,Credit,15,50000.0,2018-07-11
+C041,New Enterprises,Distributor,Agartala,Tripura,North-East,Bikash Roy,Credit,45,1500000.0,2021-07-19
+C042,Rainbow Bastralaya,Wholesaler,Purnia,Bihar,Other East,Rakesh Singh,Credit,30,600000.0,2017-08-01
+C043,Modern Enterprises,Retailer,Aizawl,Mizoram,North-East,Bikash Roy,Cash,0,50000.0,2017-05-09
+C044,Maa Tara Wholesale,Retailer,Itanagar,Arunachal Pradesh,North-East,Bikash Roy,Cash,0,100000.0,2021-03-25
+C045,Krishna Umbrella House,Wholesaler,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Credit,30,400000.0,2025-11-03
+C046,Sri Durga Traders,Distributor,Cooch Behar,West Bengal,North Bengal,Rina Das,Credit,60,1000000.0,2020-10-13
+C047,Teesta Trading Co.,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,0,50000.0,2019-02-09
+C048,Purbanchal Agencies,Wholesaler,Tezpur,Assam,North-East,Bikash Roy,Credit,30,400000.0,2019-12-19
+C049,Biswakarma Traders,Retailer,Kolkata,West Bengal,South Bengal,Amit Sarkar,Credit,15,100000.0,2023-06-12
+C050,Biswakarma Traders,Retailer,Shillong,Meghalaya,North-East,Bikash Roy,Cash,0,100000.0,2018-01-22
+C051,Sai Traders,Retailer,Asansol,West Bengal,South Bengal,Amit Sarkar,Cash,0,100000.0,2022-06-28
+C052,Himalaya Traders,Wholesaler,Tezpur,Assam,North-East,Bikash Roy,Credit,45,600000.0,2023-05-08
+C053,Rupali Wholesale,Retailer,Jalpaiguri,West Bengal,North Bengal,Rina Das,Credit,30,50000.0,2020-05-24
+C054,Lokenath Agencies,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Credit,30,100000.0,2019-12-12
+C055,Sonali Traders,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,0,150000.0,2019-01-23
+C056,Bharat Wholesale,Retailer,Siliguri,West Bengal,North Bengal,Rina Das,Cash,0,100000.0,2021-03-03
+C057,Janata & Sons,Wholesaler,Aizawl,Mizoram,North-East,Bikash Roy,Credit,30,600000.0,2020-05-25
+C058,Lokenath General Store,Wholesaler,Howrah,West Bengal,South Bengal,Amit Sarkar,Credit,45,200000.0,2024-01-05
+C059,Sunrise Wholesale,Wholesaler,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,45,400000.0,2019-04-09
+C060,Modern Marketing,Retailer,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,30,50000.0,2021-11-26

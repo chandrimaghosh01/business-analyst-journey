@@ -1,0 +1,101 @@
+complaint_id,complaint_date,order_id,customer_id,sku,complaint_type,channel,resolution_days,status
+CMP00001,2025-04-21,SO000042,C041,RC-3F-03,Quality - fabric leaking,Phone,30.0,Closed
+CMP00002,2025-04-25,SO000053,C042,,Short quantity,WhatsApp,4.0,Closed
+CMP00003,2025-05-02,SO000070,C059,RC-UV-04,Quality - fabric leaking,Phone,11.0,Closed
+CMP00004,2025-05-10,SO000108,C041,RC-2F-01,Quality - fabric leaking,Phone,25.0,Closed
+CMP00005,2025-08-03,SO000246,C046,,Late delivery,Phone,2.0,Closed
+CMP00006,2025-07-19,SO000257,C006,,Late delivery,WhatsApp,6.0,Closed
+CMP00007,2025-06-13,SO000262,C008,RC-GF-02,Quality - broken spokes,WhatsApp,29.0,Closed
+CMP00008,2025-08-12,SO000264,C024,,Late delivery,Phone,6.0,Closed
+CMP00009,2025-06-17,SO000272,C037,RC-3F-08,Quality - fabric leaking,Phone,12.0,Closed
+CMP00010,2025-06-24,SO000275,C048,,Late delivery,WhatsApp,3.0,Closed
+CMP00011,2025-07-21,SO000276,C050,,Late delivery,WhatsApp,5.0,Closed
+CMP00012,2025-08-06,SO000286,C059,,Late delivery,WhatsApp,2.0,Closed
+CMP00013,2025-07-19,SO000290,C041,,Late delivery,WhatsApp,3.0,Closed
+CMP00014,2025-08-07,SO000293,C015,,Late delivery,Phone,4.0,Closed
+CMP00015,2025-08-10,SO000294,C017,RC-3F-08,Quality - broken spokes,WhatsApp,21.0,Closed
+CMP00016,2025-07-04,SO000297,C014,,Late delivery,WhatsApp,3.0,Closed
+CMP00017,2025-06-30,SO000308,C041,,Late delivery,WhatsApp,5.0,Closed
+CMP00018,2025-08-10,SO000310,C059,RC-3F-08,Quality - handle/button fault,Email,30.0,Closed
+CMP00019,2025-07-21,SO000316,C028,,Late delivery,WhatsApp,4.0,Closed
+CMP00020,2025-07-05,SO000321,C014,,Late delivery,Phone,3.0,Closed
+CMP00021,2025-06-25,SO000324,C049,RC-3F-09,Quality - broken spokes,Phone,17.0,Closed
+CMP00022,2025-07-03,SO000325,C050,,Late delivery,Email,3.0,Closed
+CMP00023,2025-06-28,SO000326,C055,RC-KD-02,Quality - handle/button fault,WhatsApp,25.0,Closed
+CMP00024,2025-07-18,SO000327,C004,,Late delivery,Phone,7.0,Closed
+CMP00025,2025-07-18,SO000329,C033,,Late delivery,Phone,4.0,Closed
+CMP00026,2025-08-06,SO000331,C049,RC-3F-08,Quality - handle/button fault,WhatsApp,17.0,Closed
+CMP00027,2025-08-11,SO000332,C057,RC-3F-08,Quality - broken spokes,WhatsApp,20.0,Closed
+CMP00028,2025-09-03,SO000339,C046,,Late delivery,Phone,7.0,Closed
+CMP00029,2025-09-06,SO000339,C046,RC-KD-02,Quality - broken spokes,Phone,6.0,Closed
+CMP00030,2025-08-09,SO000361,C012,RC-2F-06,Quality - handle/button fault,Email,15.0,Closed
+CMP00031,2025-07-12,SO000363,C003,,Late delivery,WhatsApp,1.0,Closed
+CMP00032,2025-07-13,SO000379,C010,,Late delivery,Phone,4.0,Closed
+CMP00033,2025-08-11,SO000383,C024,,Late delivery,WhatsApp,3.0,Closed
+CMP00034,2025-08-10,SO000383,C024,RC-3F-08,Quality - handle/button fault,Email,8.0,Closed
+CMP00035,2025-08-18,SO000392,C041,,Late delivery,Phone,5.0,Closed
+CMP00036,2025-08-18,SO000392,C041,RC-3F-08,Quality - fabric leaking,WhatsApp,8.0,Closed
+CMP00037,2025-08-12,SO000396,C010,,Late delivery,Phone,6.0,Closed
+CMP00038,2025-07-15,SO000397,C021,,Wrong item sent,WhatsApp,7.0,Closed
+CMP00039,2025-07-20,SO000402,C002,,Late delivery,WhatsApp,2.0,Closed
+CMP00040,2025-07-24,SO000403,C023,,Late delivery,Phone,7.0,Closed
+CMP00041,2025-08-07,SO000418,C021,,Late delivery,WhatsApp,5.0,Closed
+CMP00042,2025-07-25,SO000431,C004,,Short quantity,Email,5.0,Closed
+CMP00043,2025-08-08,SO000433,C024,,Late delivery,Phone,1.0,Closed
+CMP00044,2025-08-12,SO000436,C009,,Late delivery,WhatsApp,7.0,Closed
+CMP00045,2025-08-12,SO000438,C014,RC-3F-08,Quality - broken spokes,WhatsApp,19.0,Closed
+CMP00046,2025-07-28,SO000445,C031,RC-LG-05,Quality - handle/button fault,WhatsApp,8.0,Closed
+CMP00047,2025-08-11,SO000448,C041,RC-3F-08,Quality - handle/button fault,WhatsApp,24.0,Closed
+CMP00048,2025-08-26,SO000449,C024,,Late delivery,Phone,2.0,Closed
+CMP00049,2025-08-04,SO000450,C036,,Late delivery,WhatsApp,4.0,Closed
+CMP00050,2025-08-04,SO000452,C041,,Late delivery,WhatsApp,4.0,Closed
+CMP00051,2025-11-10,SO000453,C046,,Late delivery,Phone,5.0,Closed
+CMP00052,2025-08-03,SO000455,C008,,Late delivery,WhatsApp,2.0,Closed
+CMP00053,2025-08-20,SO000457,C021,,Late delivery,Phone,4.0,Closed
+CMP00054,2025-08-16,SO000458,C039,,Late delivery,WhatsApp,7.0,Closed
+CMP00055,2025-08-01,SO000461,C059,,Late delivery,WhatsApp,5.0,Closed
+CMP00056,2025-08-09,SO000464,C038,,Late delivery,Phone,7.0,Closed
+CMP00057,2025-08-04,SO000465,C041,,Short quantity,Phone,4.0,Closed
+CMP00058,2025-08-10,SO000466,C048,,Late delivery,Phone,7.0,Closed
+CMP00059,2025-08-09,SO000471,C052,RC-3F-08,Quality - handle/button fault,Phone,18.0,Closed
+CMP00060,2025-07-31,SO000482,C046,,Late delivery,WhatsApp,5.0,Closed
+CMP00061,2025-08-23,SO000484,C017,,Late delivery,Email,1.0,Closed
+CMP00062,2025-08-08,SO000489,C040,,Late delivery,WhatsApp,1.0,Closed
+CMP00063,2025-11-18,SO000490,C041,,Late delivery,Email,7.0,Closed
+CMP00064,2025-11-20,SO000490,C041,RC-3F-08,Quality - handle/button fault,WhatsApp,6.0,Closed
+CMP00065,2025-09-01,SO000492,C032,,Late delivery,WhatsApp,1.0,Closed
+CMP00066,2025-08-04,SO000501,C037,RC-3F-08,Quality - handle/button fault,WhatsApp,15.0,Closed
+CMP00067,2025-09-01,SO000504,C003,,Late delivery,Phone,2.0,Closed
+CMP00068,2025-10-17,SO000505,C017,,Late delivery,WhatsApp,4.0,Closed
+CMP00069,2025-10-22,SO000511,C049,,Late delivery,WhatsApp,3.0,Closed
+CMP00070,2025-08-13,SO000531,C028,,Late delivery,WhatsApp,5.0,Closed
+CMP00071,2025-09-03,SO000537,C003,,Late delivery,WhatsApp,2.0,Closed
+CMP00072,2025-08-28,SO000537,C003,RC-RC-01,Quality - broken spokes,WhatsApp,10.0,Closed
+CMP00073,2025-08-12,SO000543,C055,,Short quantity,WhatsApp,7.0,Closed
+CMP00074,2025-11-21,SO000574,C041,,Late delivery,WhatsApp,5.0,Closed
+CMP00075,2025-09-25,SO000577,C034,,Late delivery,Phone,5.0,Closed
+CMP00076,2025-11-09,SO000582,C039,,Late delivery,WhatsApp,2.0,Closed
+CMP00077,2025-10-19,SO000592,C005,,Late delivery,Email,6.0,Closed
+CMP00078,2025-10-20,SO000599,C033,,Late delivery,WhatsApp,5.0,Closed
+CMP00079,2025-09-22,SO000601,C010,,Late delivery,WhatsApp,3.0,Closed
+CMP00080,2025-11-23,SO000606,C046,,Late delivery,WhatsApp,2.0,Closed
+CMP00081,2025-10-14,SO000609,C034,,Late delivery,WhatsApp,6.0,Closed
+CMP00082,2025-11-17,SO000625,C039,,Late delivery,Phone,6.0,Closed
+CMP00083,2025-09-23,SO000627,C010,,Late delivery,WhatsApp,3.0,Closed
+CMP00084,2025-12-11,SO000637,C046,,Late delivery,Phone,5.0,Closed
+CMP00085,2025-10-17,SO000644,C056,,Late delivery,Email,7.0,Closed
+CMP00086,2025-10-10,SO000656,C006,RC-2F-03,Quality - broken spokes,Email,10.0,Closed
+CMP00087,2025-10-21,SO000659,C017,,Late delivery,Phone,1.0,Closed
+CMP00088,2025-10-19,SO000661,C048,,Late delivery,WhatsApp,5.0,Closed
+CMP00089,2025-10-23,SO000664,C014,,Late delivery,Phone,1.0,Closed
+CMP00090,2025-11-04,SO000666,C024,,Late delivery,Phone,1.0,Closed
+CMP00091,2025-11-10,SO000667,C034,,Late delivery,Phone,7.0,Closed
+CMP00092,2025-10-27,SO000670,C030,,Late delivery,Phone,5.0,Closed
+CMP00093,2025-11-13,SO000671,C017,,Late delivery,Phone,3.0,Closed
+CMP00094,2025-12-02,SO000700,C003,RC-KD-01,Quality - fabric leaking,Phone,28.0,Closed
+CMP00095,2026-01-03,SO000737,C046,RC-3F-04,Quality - handle/button fault,WhatsApp,17.0,Closed
+CMP00096,2026-01-24,SO000750,C040,RC-UV-04,Quality - broken spokes,Email,18.0,Closed
+CMP00097,2026-03-10,SO000805,C036,RC-RC-01,Quality - broken spokes,Phone,,Open
+CMP00098,2026-03-24,SO000824,C014,RC-RC-01,Quality - fabric leaking,WhatsApp,,Open
+CMP00099,2026-03-27,SO000840,C039,RC-LG-02,Quality - fabric leaking,Phone,,Open
+CMP00100,2026-03-31,SO000845,C037,RC-KD-01,Quality - fabric leaking,WhatsApp,,Open
