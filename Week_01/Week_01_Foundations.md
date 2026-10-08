@@ -21,7 +21,7 @@ Tick as you go (edit this file on GitHub and change `[ ]` to `[x]`).
 
 | Day | Topic | Learn | Assignment | Case of the Day | English |
 |---|---|---|---|---|---|
-| Day 0 | Setup (30 min) | [ ] | — | — | — |
+| Day 0 | Setup (30 min) | [X] | — | — | — |
 | Day 1 | How companies work & analyst roles | [ ] | [ ] | [ ] | [ ] |
 | Day 2 | Excel foundations | [ ] | [ ] | [ ] | [ ] |
 | Day 3 | SUMIFS & friends | [ ] | [ ] | [ ] | [ ] |
