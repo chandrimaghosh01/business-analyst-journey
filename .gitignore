@@ -1,0 +1,4 @@
+# Unzipped huge dataset is too big for GitHub web upload (25 MB limit). Keep only the .zip in the repo.
+datasets/huge/
+# Excel temporary lock files
+~$*
