@@ -1,0 +1,16 @@
+customer_id,customer_name,customer_type,city,state,zone,sales_rep,payment_terms,credit_days,credit_limit,onboarded_on
+C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,0,50000.0,2023-07-22
+C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,0,50000.0,2021-04-07
+C003,Diamond Wholesale,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,0,50000.0,2023-12-15
+C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,0,50000.0,2018-11-14
+C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,0,150000.0,2017-03-22
+C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,45,1000000.0,2018-03-09
+C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,30,600000.0,2022-05-27
+C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,30,200000.0,2023-02-01
+C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,45,1000000.0,2019-09-22
+C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,0,150000.0,2020-06-14
+C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,30,600000.0,2018-09-16
+C012,Sri Durga Stores,Retailer,Cooch Behar,West Bengal,North Bengal,Rina Das,Cash,0,150000.0,2017-01-21
+C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,30,200000.0,2022-03-08
+C014,Star Wholesale,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,0,100000.0,2020-10-23
+C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,0,50000.0,2020-11-23

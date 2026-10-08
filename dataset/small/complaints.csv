@@ -1,0 +1,12 @@
+complaint_id,complaint_date,order_id,customer_id,sku,complaint_type,channel,resolution_days,status
+CMP00001,2025-04-18,SO000008,C006,RC-KD-01,Quality - handle/button fault,WhatsApp,20.0,Closed
+CMP00002,2025-04-24,SO000013,C010,RC-3F-04,Quality - handle/button fault,Phone,6.0,Closed
+CMP00003,2025-04-30,SO000021,C009,,Short quantity,Email,1.0,Closed
+CMP00004,2025-05-06,SO000030,C009,RC-3F-04,Quality - handle/button fault,Phone,23.0,Closed
+CMP00005,2025-05-15,SO000032,C002,RC-3F-04,Quality - handle/button fault,Email,30.0,Closed
+CMP00006,2025-05-20,SO000042,C005,RC-3F-04,Quality - handle/button fault,WhatsApp,7.0,Closed
+CMP00007,2025-06-27,SO000046,C009,RC-3F-04,Quality - handle/button fault,WhatsApp,,Open
+CMP00008,2025-06-28,SO000053,C008,RC-3F-04,Quality - broken spokes,WhatsApp,,Open
+CMP00009,2025-06-27,SO000080,C008,RC-3F-04,Quality - fabric leaking,WhatsApp,,Open
+CMP00010,2025-06-30,SO000084,C010,RC-3F-04,Quality - handle/button fault,Phone,,Open
+CMP00012,2025-06-20,SO000091,C008,RC-3F-04,Quality - fabric leaking,WhatsApp,,Open

@@ -1,0 +1,4 @@
+po_id,supplier_id,sku,po_date,ordered_qty,unit_cost,promised_arrival_date,actual_arrival_date,received_qty,status
+PO0001,S02,RC-3F-01,2025-05-05,900,193.0,2025-06-24,2025-06-21,900,Received
+PO0002,S03,RC-3F-04,2025-05-05,2592,180.0,2025-06-14,2025-06-17,2592,Received
+PO0003,S02,RC-LG-02,2025-05-05,420,298.0,2025-06-24,2025-06-23,420,Received

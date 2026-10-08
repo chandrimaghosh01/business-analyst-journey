@@ -1,0 +1,338 @@
+order_id,order_date,order_status,customer_id,customer_name,customer_type,city,state,zone,sales_rep,payment_terms,sku,product_name,category,qty,unit_price,discount_pct
+SO000001,2025-04-03,Delivered,C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,RC-LG-01,Heritage Long - Checks,Long Umbrella,24,350.0,0.01
+SO000002,2025-04-04,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,12,350.0,0.03
+SO000002,2025-04-04,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,36,405.0,0.01
+SO000002,2025-04-04,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.02
+SO000003,2025-04-04,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,36,325.0,0.02
+SO000003,2025-04-04,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,24,350.0,0.0
+SO000003,2025-04-04,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,36,280.0,0.02
+SO000004,2025-04-04,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,36,325.0,0.04
+SO000004,2025-04-04,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,48,240.0,0.03
+SO000004,2025-04-04,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,72,350.0,0.04
+SO000005,2025-04-05,Delivered,C014,Star Wholesale,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,12,275.0,0.0
+SO000005,2025-04-05,Delivered,C014,Star Wholesale,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,RC-UV-01,SunGuard UV Sun - Polka Dot,UV Sun Umbrella,12,410.0,0.01
+SO000006,2025-04-07,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-LG-01,Heritage Long - Checks,Long Umbrella,48,350.0,0.0
+SO000006,2025-04-07,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.02
+SO000007,2025-04-07,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,108,240.0,0.1
+SO000007,2025-04-07,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,168,350.0,0.11
+SO000007,2025-04-07,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,48,275.0,0.08
+SO000007,2025-04-07,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,60,325.0,0.09
+SO000008,2025-04-08,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,108,325.0,0.11
+SO000008,2025-04-08,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,96,350.0,0.09
+SO000008,2025-04-08,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,36,275.0,0.12
+SO000008,2025-04-08,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,156,225.0,0.1
+SO000008,2025-04-08,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,168,280.0,0.09
+SO000008,2025-04-08,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,132,240.0,0.1
+SO000009,2025-04-09,Delivered,C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.01
+SO000010,2025-04-12,Delivered,C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,36,325.0,0.02
+SO000010,2025-04-12,Delivered,C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.01
+SO000011,2025-04-16,Delivered,C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.01
+SO000011,2025-04-16,Delivered,C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,24,325.0,0.01
+SO000012,2025-04-17,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.0
+SO000013,2025-04-17,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,12,280.0,0.01
+SO000013,2025-04-17,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,12,275.0,0.01
+SO000013,2025-04-17,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.02
+SO000014,2025-04-19,Delivered,C003,Diamond Wholesale,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.01
+SO000014,2025-04-19,Delivered,C003,Diamond Wholesale,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.01
+SO000014,2025-04-19,Delivered,C003,Diamond Wholesale,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-GF-01,Pro Golf - Polka Dot,Golf Umbrella,12,960.0,0.02
+SO000015,2025-04-19,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,72,225.0,0.06
+SO000015,2025-04-19,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.06
+SO000015,2025-04-19,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,84,280.0,0.03
+SO000016,2025-04-21,Delivered,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,60,225.0,0.04
+SO000016,2025-04-21,Delivered,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.06
+SO000017,2025-04-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,132,240.0,0.09
+SO000017,2025-04-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,84,325.0,0.11
+SO000017,2025-04-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,132,280.0,0.1
+SO000017,2025-04-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.08
+SO000017,2025-04-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,156,350.0,0.11
+SO000018,2025-04-23,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,24,325.0,0.02
+SO000019,2025-04-24,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.05
+SO000019,2025-04-24,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,12,350.0,0.07
+SO000019,2025-04-24,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,12,225.0,0.07
+SO000020,2025-04-25,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,132,405.0,0.1
+SO000020,2025-04-25,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,120,325.0,0.1
+SO000020,2025-04-25,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,168,240.0,0.1
+SO000020,2025-04-25,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,48,275.0,0.1
+SO000020,2025-04-25,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,168,350.0,0.12
+SO000021,2025-04-25,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,180,350.0,0.12
+SO000021,2025-04-25,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,72,275.0,0.1
+SO000021,2025-04-25,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,84,240.0,0.11
+SO000021,2025-04-25,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,108,325.0,0.1
+SO000022,2025-04-26,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,120,225.0,0.12
+SO000022,2025-04-26,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,108,275.0,0.11
+SO000022,2025-04-26,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,156,240.0,0.11
+SO000023,2025-04-30,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,168,325.0,0.11
+SO000023,2025-04-30,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,132,225.0,0.11
+SO000023,2025-04-30,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,72,350.0,0.11
+SO000024,2025-05-01,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,84,350.0,0.11
+SO000024,2025-05-01,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,84,325.0,0.1
+SO000024,2025-05-01,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,72,240.0,0.09
+SO000024,2025-05-01,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,36,275.0,0.1
+SO000024,2025-05-01,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,72,280.0,0.11
+SO000025,2025-05-01,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.06
+SO000025,2025-05-01,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,72,350.0,0.05
+SO000025,2025-05-01,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,72,275.0,0.06
+SO000025,2025-05-01,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,72,325.0,0.05
+SO000026,2025-05-02,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.01
+SO000026,2025-05-02,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,24,325.0,0.02
+SO000027,2025-05-02,Delivered,C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.0
+SO000027,2025-05-02,Delivered,C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.02
+SO000027,2025-05-02,Delivered,C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,12,280.0,0.02
+SO000028,2025-05-03,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.01
+SO000028,2025-05-03,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,24,225.0,0.0
+SO000029,2025-05-03,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,12,225.0,0.02
+SO000029,2025-05-03,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,12,280.0,0.0
+SO000029,2025-05-03,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,48,275.0,0.01
+SO000030,2025-05-03,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,168,240.0,0.12
+SO000030,2025-05-03,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,204,280.0,0.11
+SO000030,2025-05-03,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,48,275.0,0.09
+SO000031,2025-05-06,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,12,350.0,0.01
+SO000031,2025-05-06,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.02
+SO000031,2025-05-06,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,12,225.0,0.0
+SO000032,2025-05-06,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.02
+SO000032,2025-05-06,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,24,275.0,0.01
+SO000032,2025-05-06,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,24,325.0,0.0
+SO000033,2025-05-07,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,168,275.0,0.1
+SO000033,2025-05-07,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,96,350.0,0.12
+SO000033,2025-05-07,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,96,225.0,0.1
+SO000034,2025-05-07,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,84,240.0,0.1
+SO000034,2025-05-07,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,84,275.0,0.09
+SO000034,2025-05-07,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,108,405.0,0.08
+SO000034,2025-05-07,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,84,325.0,0.1
+SO000034,2025-05-07,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,192,350.0,0.1
+SO000035,2025-05-07,Delivered,C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.0
+SO000035,2025-05-07,Delivered,C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.03
+SO000035,2025-05-07,Delivered,C015,Modern Agencies,Retailer,Bhagalpur,Bihar,Other East,Rakesh Singh,Cash,RC-LG-01,Heritage Long - Checks,Long Umbrella,36,350.0,0.01
+SO000036,2025-05-09,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.02
+SO000037,2025-05-09,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,36,325.0,0.03
+SO000037,2025-05-09,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.01
+SO000038,2025-05-09,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.04
+SO000038,2025-05-09,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,24,225.0,0.07
+SO000038,2025-05-09,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,24,275.0,0.03
+SO000038,2025-05-09,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,24,350.0,0.06
+SO000039,2025-05-09,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,84,405.0,0.05
+SO000039,2025-05-09,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.07
+SO000039,2025-05-09,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.06
+SO000040,2025-05-10,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,12,225.0,0.05
+SO000040,2025-05-10,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,84,275.0,0.04
+SO000040,2025-05-10,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.04
+SO000040,2025-05-10,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,60,280.0,0.06
+SO000041,2025-05-15,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,24,280.0,0.0
+SO000041,2025-05-15,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,24,225.0,0.03
+SO000041,2025-05-15,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.0
+SO000042,2025-05-16,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,36,275.0,0.03
+SO000042,2025-05-16,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.0
+SO000042,2025-05-16,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-LG-01,Heritage Long - Checks,Long Umbrella,12,350.0,0.01
+SO000043,2025-05-16,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,84,325.0,0.03
+SO000043,2025-05-16,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.03
+SO000043,2025-05-16,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,48,280.0,0.06
+SO000044,2025-05-17,Cancelled,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,168,405.0,0.1
+SO000044,2025-05-17,Cancelled,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,132,240.0,0.09
+SO000044,2025-05-17,Cancelled,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,60,325.0,0.1
+SO000045,2025-05-19,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,36,275.0,0.01
+SO000045,2025-05-19,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,48,240.0,0.01
+SO000045,2025-05-19,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.02
+SO000046,2025-05-20,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,144,350.0,0.09
+SO000046,2025-05-20,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,96,240.0,0.11
+SO000046,2025-05-20,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,132,405.0,0.1
+SO000046,2025-05-20,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,60,275.0,0.08
+SO000046,2025-05-20,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,204,350.0,0.12
+SO000046,2025-05-20,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,72,225.0,0.09
+SO000047,2025-05-20,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.06
+SO000047,2025-05-20,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,72,325.0,0.06
+SO000047,2025-05-20,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,84,350.0,0.03
+SO000048,2025-05-21,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,48,225.0,0.11
+SO000048,2025-05-21,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,168,240.0,0.11
+SO000048,2025-05-21,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,108,350.0,0.11
+SO000048,2025-05-21,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,60,280.0,0.1
+SO000048,2025-05-21,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,132,325.0,0.11
+SO000049,2025-05-21,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,96,225.0,0.08
+SO000049,2025-05-21,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,216,350.0,0.08
+SO000049,2025-05-21,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,204,240.0,0.09
+SO000049,2025-05-21,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,144,325.0,0.1
+SO000050,2025-05-21,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,60,350.0,0.03
+SO000050,2025-05-21,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,48,240.0,0.04
+SO000050,2025-05-21,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,60,325.0,0.05
+SO000051,2025-05-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,144,350.0,0.11
+SO000051,2025-05-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,168,225.0,0.12
+SO000051,2025-05-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,168,240.0,0.09
+SO000051,2025-05-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,60,350.0,0.12
+SO000051,2025-05-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,120,275.0,0.12
+SO000051,2025-05-22,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,144,325.0,0.09
+SO000052,2025-05-23,Delivered,C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.02
+SO000052,2025-05-23,Delivered,C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,24,225.0,0.0
+SO000053,2025-05-23,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,84,275.0,0.05
+SO000053,2025-05-23,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,36,350.0,0.03
+SO000053,2025-05-23,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,72,280.0,0.07
+SO000054,2025-05-24,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.05
+SO000054,2025-05-24,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,24,325.0,0.05
+SO000055,2025-05-24,Delivered,C014,Star Wholesale,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.01
+SO000056,2025-05-26,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.01
+SO000056,2025-05-26,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-LG-01,Heritage Long - Checks,Long Umbrella,36,350.0,0.02
+SO000057,2025-05-26,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.06
+SO000057,2025-05-26,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.05
+SO000058,2025-05-26,Delivered,C014,Star Wholesale,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.0
+SO000058,2025-05-26,Delivered,C014,Star Wholesale,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.02
+SO000058,2025-05-26,Delivered,C014,Star Wholesale,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,12,350.0,0.02
+SO000059,2025-05-27,Delivered,C003,Diamond Wholesale,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.02
+SO000059,2025-05-27,Delivered,C003,Diamond Wholesale,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.02
+SO000059,2025-05-27,Delivered,C003,Diamond Wholesale,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,24,225.0,0.0
+SO000060,2025-05-28,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.03
+SO000060,2025-05-28,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,24,225.0,0.03
+SO000060,2025-05-28,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,24,275.0,0.03
+SO000061,2025-05-28,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,48,225.0,0.1
+SO000061,2025-05-28,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,60,240.0,0.1
+SO000061,2025-05-28,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,60,275.0,0.11
+SO000061,2025-05-28,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,96,325.0,0.11
+SO000062,2025-05-29,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,144,350.0,0.1
+SO000062,2025-05-29,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.09
+SO000062,2025-05-29,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,168,325.0,0.09
+SO000063,2025-05-29,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.06
+SO000063,2025-05-29,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,72,350.0,0.03
+SO000063,2025-05-29,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,84,275.0,0.07
+SO000063,2025-05-29,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,24,405.0,0.06
+SO000064,2025-05-30,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.03
+SO000064,2025-05-30,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.01
+SO000064,2025-05-30,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,12,275.0,0.01
+SO000065,2025-05-30,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,60,280.0,0.11
+SO000065,2025-05-30,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,96,240.0,0.11
+SO000065,2025-05-30,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,96,350.0,0.08
+SO000065,2025-05-30,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.09
+SO000066,2025-06-02,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,48,225.0,0.03
+SO000067,2025-06-02,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,108,325.0,0.09
+SO000067,2025-06-02,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,84,350.0,0.08
+SO000067,2025-06-02,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,168,225.0,0.11
+SO000067,2025-06-02,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,108,405.0,0.11
+SO000067,2025-06-02,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,60,240.0,0.09
+SO000068,2025-06-03,Delivered,C012,Sri Durga Stores,Retailer,Cooch Behar,West Bengal,North Bengal,Rina Das,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.0
+SO000068,2025-06-03,Delivered,C012,Sri Durga Stores,Retailer,Cooch Behar,West Bengal,North Bengal,Rina Das,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,24,325.0,0.01
+SO000069,2025-06-04,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,24,225.0,0.01
+SO000069,2025-06-04,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,24,325.0,0.03
+SO000070,2025-06-04,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,36,325.0,0.03
+SO000070,2025-06-04,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-LG-01,Heritage Long - Checks,Long Umbrella,12,350.0,0.01
+SO000070,2025-06-04,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.0
+SO000071,2025-06-04,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.02
+SO000072,2025-06-05,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.01
+SO000072,2025-06-05,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.02
+SO000072,2025-06-05,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-LG-01,Heritage Long - Checks,Long Umbrella,12,350.0,0.01
+SO000073,2025-06-06,Delivered,C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,24,350.0,0.01
+SO000073,2025-06-06,Delivered,C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.0
+SO000073,2025-06-06,Delivered,C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,24,225.0,0.03
+SO000074,2025-06-06,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-LG-01,Heritage Long - Checks,Long Umbrella,12,350.0,0.03
+SO000075,2025-06-07,Pending,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,36,350.0,0.04
+SO000075,2025-06-07,Pending,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,48,240.0,0.05
+SO000075,2025-06-07,Pending,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,84,405.0,0.04
+SO000076,2025-06-07,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,12,350.0,0.04
+SO000076,2025-06-07,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,36,275.0,0.06
+SO000077,2025-06-09,Delivered,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.06
+SO000077,2025-06-09,Delivered,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.05
+SO000078,2025-06-09,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,36,280.0,0.01
+SO000078,2025-06-09,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.01
+SO000078,2025-06-09,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.0
+SO000079,2025-06-09,Delivered,C012,Sri Durga Stores,Retailer,Cooch Behar,West Bengal,North Bengal,Rina Das,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,24,325.0,0.03
+SO000079,2025-06-09,Delivered,C012,Sri Durga Stores,Retailer,Cooch Behar,West Bengal,North Bengal,Rina Das,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.02
+SO000080,2025-06-10,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,84,240.0,0.05
+SO000080,2025-06-10,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,24,275.0,0.03
+SO000080,2025-06-10,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,72,280.0,0.04
+SO000081,2025-06-11,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,48,240.0,0.08
+SO000081,2025-06-11,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,60,280.0,0.08
+SO000081,2025-06-11,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,48,325.0,0.11
+SO000082,2025-06-11,Pending,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,48,350.0,0.03
+SO000082,2025-06-11,Pending,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,60,240.0,0.07
+SO000082,2025-06-11,Pending,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,60,405.0,0.04
+SO000082,2025-06-11,Pending,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,72,325.0,0.05
+SO000083,2025-06-13,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,84,240.0,0.08
+SO000083,2025-06-13,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,216,325.0,0.11
+SO000083,2025-06-13,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,84,225.0,0.09
+SO000083,2025-06-13,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,156,275.0,0.1
+SO000084,2025-06-13,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,36,275.0,0.02
+SO000084,2025-06-13,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,24,280.0,0.03
+SO000085,2025-06-14,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,96,240.0,0.12
+SO000085,2025-06-14,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,132,325.0,0.1
+SO000085,2025-06-14,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,156,350.0,0.09
+SO000085,2025-06-14,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,144,275.0,0.08
+SO000086,2025-06-14,Pending,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.05
+SO000086,2025-06-14,Pending,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,24,280.0,0.06
+SO000086,2025-06-14,Pending,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.07
+SO000086,2025-06-14,Pending,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,48,405.0,0.04
+SO000087,2025-06-14,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,24,350.0,0.04
+SO000087,2025-06-14,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,84,280.0,0.05
+SO000088,2025-06-14,Pending,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-LG-02,Auto-Open Long - Polka Dot,Long Umbrella,120,405.0,0.09
+SO000088,2025-06-14,Pending,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,144,275.0,0.12
+SO000088,2025-06-14,Pending,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,156,240.0,0.11
+SO000088,2025-06-14,Pending,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,216,350.0,0.11
+SO000088,2025-06-14,Pending,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,60,225.0,0.1
+SO000088,2025-06-14,Pending,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,204,280.0,0.12
+SO000089,2025-06-14,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,72,280.0,0.04
+SO000089,2025-06-14,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,12,350.0,0.04
+SO000089,2025-06-14,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,72,325.0,0.07
+SO000089,2025-06-14,Delivered,C011,City Trading Co.,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,36,275.0,0.06
+SO000090,2025-06-16,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.01
+SO000091,2025-06-16,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,84,275.0,0.06
+SO000091,2025-06-16,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,60,225.0,0.04
+SO000091,2025-06-16,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,12,350.0,0.06
+SO000091,2025-06-16,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.03
+SO000092,2025-06-17,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.01
+SO000092,2025-06-17,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.0
+SO000093,2025-06-17,Delivered,C005,Mahamaya Bazaar,Retailer,Kharagpur,West Bengal,South Bengal,Amit Sarkar,Cash,RC-LG-01,Heritage Long - Checks,Long Umbrella,48,350.0,0.0
+SO000094,2025-06-18,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.03
+SO000094,2025-06-18,Delivered,C001,Sunrise & Sons,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.02
+SO000095,2025-06-18,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,12,225.0,0.01
+SO000095,2025-06-18,Delivered,C002,Royal General Store,Retailer,Tezpur,Assam,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.02
+SO000096,2025-06-20,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,60,350.0,0.06
+SO000096,2025-06-20,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.06
+SO000096,2025-06-20,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,60,280.0,0.06
+SO000097,2025-06-21,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,96,275.0,0.12
+SO000097,2025-06-21,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,168,225.0,0.08
+SO000097,2025-06-21,Delivered,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,108,280.0,0.09
+SO000098,2025-06-21,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,36,325.0,0.06
+SO000098,2025-06-21,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,24,350.0,0.06
+SO000098,2025-06-21,Delivered,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,36,225.0,0.03
+SO000099,2025-06-21,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,108,325.0,0.11
+SO000099,2025-06-21,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,48,240.0,0.11
+SO000099,2025-06-21,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,192,275.0,0.11
+SO000099,2025-06-21,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,96,225.0,0.09
+SO000099,2025-06-21,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,48,280.0,0.1
+SO000100,2025-06-21,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,24,275.0,0.01
+SO000100,2025-06-21,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,12,225.0,0.0
+SO000100,2025-06-21,Delivered,C010,Star General Store,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,24,325.0,0.0
+SO000101,2025-06-23,Delivered,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,48,225.0,0.03
+SO000101,2025-06-23,Delivered,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.04
+SO000102,2025-06-24,Delivered,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,12,350.0,0.06
+SO000102,2025-06-24,Delivered,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,60,325.0,0.04
+SO000102,2025-06-24,Delivered,C007,Annapurna Wholesale,Wholesaler,Bhubaneswar,Odisha,Other East,Rakesh Singh,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.05
+SO000103,2025-06-24,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,72,275.0,0.07
+SO000103,2025-06-24,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.07
+SO000103,2025-06-24,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,60,350.0,0.03
+SO000103,2025-06-24,Delivered,C013,Rupali Bastralaya,Wholesaler,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,60,225.0,0.06
+SO000104,2025-06-25,Pending,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,36,275.0,0.1
+SO000104,2025-06-25,Pending,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,60,280.0,0.09
+SO000104,2025-06-25,Pending,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,72,225.0,0.08
+SO000104,2025-06-25,Pending,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,60,240.0,0.08
+SO000104,2025-06-25,Pending,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,84,325.0,0.11
+SO000104,2025-06-25,Pending,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,72,350.0,0.09
+SO000105,2025-06-26,In Transit,C014,Star Wholesale,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.02
+SO000105,2025-06-26,In Transit,C014,Star Wholesale,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,12,225.0,0.01
+SO000105,2025-06-26,In Transit,C014,Star Wholesale,Retailer,Silchar,Assam,North-East,Bikash Roy,Cash,RC-LG-01,Heritage Long - Checks,Long Umbrella,12,350.0,0.01
+SO000106,2025-06-27,In Transit,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,84,225.0,0.12
+SO000106,2025-06-27,In Transit,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-LG-01,Heritage Long - Checks,Long Umbrella,144,350.0,0.12
+SO000106,2025-06-27,In Transit,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.08
+SO000106,2025-06-27,In Transit,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,36,275.0,0.12
+SO000106,2025-06-27,In Transit,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,120,325.0,0.11
+SO000106,2025-06-27,In Transit,C006,Kamakhya Enterprises,Distributor,Silchar,Assam,North-East,Bikash Roy,Credit,RC-GF-01,Pro Golf - Polka Dot,Golf Umbrella,60,960.0,0.08
+SO000107,2025-06-27,In Transit,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,84,275.0,0.04
+SO000107,2025-06-27,In Transit,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,84,325.0,0.07
+SO000107,2025-06-27,In Transit,C008,Saraswati Agencies,Wholesaler,Siliguri,West Bengal,North Bengal,Rina Das,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,24,225.0,0.06
+SO000108,2025-06-27,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,132,275.0,0.11
+SO000108,2025-06-27,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,156,240.0,0.11
+SO000108,2025-06-27,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,60,225.0,0.1
+SO000108,2025-06-27,Delivered,C009,Rupali Trading Co.,Distributor,Durgapur,West Bengal,South Bengal,Amit Sarkar,Credit,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,48,350.0,0.1
+SO000109,2025-06-28,In Transit,C003,Diamond Wholesale,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,12,240.0,0.03
+SO000109,2025-06-28,In Transit,C003,Diamond Wholesale,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-02,Compact 3-Fold - Floral Print,3-Fold Umbrella,12,350.0,0.02
+SO000109,2025-06-28,In Transit,C003,Diamond Wholesale,Retailer,Bardhaman,West Bengal,South Bengal,Amit Sarkar,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,24,275.0,0.01
+SO000110,2025-06-28,Pending,C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,36,240.0,0.02
+SO000110,2025-06-28,Pending,C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-01,Breeze 3-Fold - Checks,3-Fold Umbrella,12,280.0,0.01
+SO000110,2025-06-28,Pending,C004,Krishna Stores,Retailer,Agartala,Tripura,North-East,Bikash Roy,Cash,RC-3F-04,Breeze 3-Fold - Bottle Green,3-Fold Umbrella,36,275.0,0.03
+SO000111,2025-06-30,Pending,C012,Sri Durga Stores,Retailer,Cooch Behar,West Bengal,North Bengal,Rina Das,Cash,RC-KD-01,Kiddo Kids - Red,Kids Umbrella,12,225.0,0.02
+SO000111,2025-06-30,Pending,C012,Sri Durga Stores,Retailer,Cooch Behar,West Bengal,North Bengal,Rina Das,Cash,RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,12,325.0,0.01
+SO000111,2025-06-30,Pending,C012,Sri Durga Stores,Retailer,Cooch Behar,West Bengal,North Bengal,Rina Das,Cash,RC-3F-03,Compact 3-Fold - Beige,3-Fold Umbrella,24,240.0,0.01
