@@ -1,0 +1,41 @@
+sku,product_name,category,made_in,supplier_id,unit_cost,wholesale_price,mrp
+RC-3F-01,Classic 3-Fold - Polka Dot,3-Fold Umbrella,In-house,IN-HOUSE,223.0,330.0,539.0
+RC-3F-02,Breeze 3-Fold - Transparent,3-Fold Umbrella,In-house,IN-HOUSE,225.0,305.0,559.0
+RC-3F-03,Storm 3-Fold - Floral Print,3-Fold Umbrella,In-house,IN-HOUSE,197.0,275.0,469.0
+RC-3F-04,Compact 3-Fold - Navy Blue,3-Fold Umbrella,In-house,IN-HOUSE,234.0,345.0,549.0
+RC-3F-05,Breeze 3-Fold - Grey,3-Fold Umbrella,In-house,IN-HOUSE,195.0,255.0,439.0
+RC-3F-06,Breeze 3-Fold - Floral Print,3-Fold Umbrella,In-house,IN-HOUSE,184.0,260.0,479.0
+RC-3F-07,Classic 3-Fold - Beige,3-Fold Umbrella,Imported,S04,193.0,300.0,519.0
+RC-3F-08,Compact 3-Fold - Checks,3-Fold Umbrella,Imported,S03,224.0,295.0,459.0
+RC-3F-09,Classic 3-Fold - Black,3-Fold Umbrella,In-house,IN-HOUSE,158.0,205.0,319.0
+RC-3F-10,Compact 3-Fold - Red,3-Fold Umbrella,In-house,IN-HOUSE,169.0,260.0,419.0
+RC-3F-11,Storm 3-Fold - Transparent,3-Fold Umbrella,In-house,IN-HOUSE,206.0,280.0,449.0
+RC-3F-12,Compact 3-Fold - Floral Print,3-Fold Umbrella,In-house,IN-HOUSE,225.0,300.0,509.0
+RC-2F-01,Classic 2-Fold - Maroon,2-Fold Umbrella,In-house,IN-HOUSE,233.0,310.0,539.0
+RC-2F-02,Breeze 2-Fold - Red,2-Fold Umbrella,In-house,IN-HOUSE,214.0,290.0,479.0
+RC-2F-03,Classic 2-Fold - Checks,2-Fold Umbrella,Imported,S02,298.0,435.0,759.0
+RC-2F-04,Classic 2-Fold - Red,2-Fold Umbrella,In-house,IN-HOUSE,219.0,310.0,539.0
+RC-2F-05,Breeze 2-Fold - Grey,2-Fold Umbrella,In-house,IN-HOUSE,248.0,375.0,599.0
+RC-2F-06,Breeze 2-Fold - Floral Print,2-Fold Umbrella,In-house,IN-HOUSE,190.0,270.0,429.0
+RC-LG-01,Auto-Open Long - Maroon,Long Umbrella,In-house,IN-HOUSE,292.0,390.0,699.0
+RC-LG-02,Storm Long - Grey,Long Umbrella,In-house,IN-HOUSE,274.0,385.0,689.0
+RC-LG-03,Storm Long - Bottle Green,Long Umbrella,Imported,S01,284.0,430.0,759.0
+RC-LG-04,Storm Long - Beige,Long Umbrella,In-house,IN-HOUSE,309.0,420.0,729.0
+RC-LG-05,Storm Long - Checks,Long Umbrella,In-house,IN-HOUSE,224.0,345.0,579.0
+RC-LG-06,Heritage Long - Maroon,Long Umbrella,Imported,S04,414.0,570.0,949.0
+RC-KD-01,Kiddo Kids - Cartoon Print,Kids Umbrella,In-house,IN-HOUSE,155.0,220.0,359.0
+RC-KD-02,Kiddo Kids - Yellow,Kids Umbrella,Imported,S03,151.0,210.0,349.0
+RC-KD-03,Kiddo Kids - Sky Blue,Kids Umbrella,In-house,IN-HOUSE,123.0,185.0,329.0
+RC-KD-04,Kiddo Kids - Polka Dot,Kids Umbrella,In-house,IN-HOUSE,175.0,235.0,429.0
+RC-GF-01,Pro Golf - Floral Print,Golf Umbrella,Imported,S02,545.0,745.0,1259.0
+RC-GF-02,Pro Golf - Beige,Golf Umbrella,Imported,S03,528.0,775.0,1349.0
+RC-RC-01,Shield Raincoat - Red,Raincoat,In-house,IN-HOUSE,451.0,690.0,1119.0
+RC-RC-02,Shield Raincoat - Bottle Green,Raincoat,In-house,IN-HOUSE,493.0,690.0,1239.0
+RC-RC-03,Shield Raincoat - Grey,Raincoat,In-house,IN-HOUSE,493.0,740.0,1319.0
+RC-RC-04,Shield Raincoat - Checks,Raincoat,Imported,S01,322.0,435.0,729.0
+RC-RC-05,Shield Raincoat - Polka Dot,Raincoat,Imported,S04,456.0,655.0,1039.0
+RC-UV-01,SunGuard UV Sun - Maroon,UV Sun Umbrella,In-house,IN-HOUSE,257.0,375.0,669.0
+RC-UV-02,SunGuard UV Sun - Grey,UV Sun Umbrella,Imported,S01,384.0,580.0,929.0
+RC-UV-03,SunGuard UV Sun - Checks,UV Sun Umbrella,In-house,IN-HOUSE,325.0,445.0,729.0
+RC-UV-04,SunGuard UV Sun - Beige,UV Sun Umbrella,Imported,S04,291.0,420.0,749.0
+RC-UV-05,SunGuard UV Sun - Transparent,UV Sun Umbrella,Imported,S04,368.0,525.0,859.0
